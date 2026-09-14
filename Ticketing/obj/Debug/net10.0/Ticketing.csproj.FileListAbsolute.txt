@@ -1,0 +1,4 @@
+C:\Users\PORTATIL MF\source\repos\Logica\Ticketing\Ticketing\obj\Debug\net10.0\Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PORTATIL MF\source\repos\Logica\Ticketing\Ticketing\obj\Debug\net10.0\Ticketing.AssemblyInfoInputs.cache
+C:\Users\PORTATIL MF\source\repos\Logica\Ticketing\Ticketing\obj\Debug\net10.0\Ticketing.AssemblyInfo.cs
+C:\Users\PORTATIL MF\source\repos\Logica\Ticketing\Ticketing\obj\Debug\net10.0\Ticketing.csproj.CoreCompileInputs.cache
